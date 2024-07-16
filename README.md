@@ -16,7 +16,7 @@ Make sure you have the following installed:
 You can install the required packages using pip:
 
 ```
-pip install selenium webdriver_manager
+pip install -r requirements.txt
 ```
 
 ## Setup
