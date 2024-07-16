@@ -1,11 +1,11 @@
 # Paladium Clicker Automation Script
 
-This script automates the process of answering questions in the Paladium Clicker 'https://brominee.github.io/PaladiumClicker/' game using Selenium WebDriver. It stores and their corresponding answers in a JSON file, enabling automated and efficient gameplay.
+This script automates the process of answering questions in the Paladium Clicker 'https://brominee.github.io/PaladiumClicker/' game using Selenium WebDriver. It stores and their corresponding answers in a JSON file, enabling automated.
 
 ## Prerequisites
 
 Make sure you have the following installed:
-- Python 3.x
+- Python 3.12 > 3.9
 - Google Chrome browser
 - ChromeDriver
 - The following Python packages:
