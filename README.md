@@ -42,7 +42,7 @@ PSEUDO = 'YOURNAME'  # Your Minecraft username.
 Run the script using Python:
 
 ```
-python script.py
+python PalaClicker.py
 ```
 
 The script will open a Chrome browser window and navigate to the Paladium Clicker game. It will automatically handle the following tasks:
